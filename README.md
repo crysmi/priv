@@ -1,5 +1,5 @@
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th colspan=2>Table 1 Heading 1 </th></tr>
 <tr><td>
 
 |Table 1| Middle | Table 2|
